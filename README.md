@@ -4,7 +4,9 @@
  2. Model apply in Cipher data set
  3. Basic tensor flow code
  4. Auto grad formula
- 5. Hand step by step code without libraray A neural network desing
+ 5. Hand step by step code without libraray A neural network desing .
+    Manually I do the code without library function
+
 
 
 
