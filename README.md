@@ -5,7 +5,8 @@
  3. Basic tensor flow code
  4. Auto grad formula
  5. Hand step by step code without libraray A neural network desing .
-    Manually I do the code without library function
+    Manually I do the code without library function(nn_hand_note)
+
 
 
 
