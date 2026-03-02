@@ -7,6 +7,9 @@
  5. Hand step by step code without libraray A neural network desing .
     Manually I do the code without library function(nn_hand_note)
 
+6.Pytorch with NN module code in details (nn_module.ipynb)
+
+
 
 
 
