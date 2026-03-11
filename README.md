@@ -9,6 +9,10 @@
 
 6.Pytorch with NN module code in details (nn_module.ipynb)
 
+7.DataSet and data loader 
+   here discuss how load dataset using pytorch library in python
+
+
 
 
 
